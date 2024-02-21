@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,500;1,500&display=swap');
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+.raleway{
+    font-family : "Raleway", sans-serif;
+}
+.borderBottom{
+    border-bottom: 1px dashed gray;
+    padding-bottom: 10px;
+    /* opacity: 0.8px; */
+    
+}
+
+.borderLeft{
+    border-right: 2px dashed gray;
+    margin-right: 30px;
+}
+#calender p{
+    border-radius: 12px;
+    background-color: #F7F8F8;
+
+}
+
+#applyCoupon:hover {
+    cursor: pointer;
+}
